@@ -1,6 +1,6 @@
 let testsuly = Number(prompt("Testsúlya"))
 let etkezesek = Number(prompt("Étkezések száma"))
-let ml = Number(prompt("Megevett ml"))
+let ml = Number(prompt("Most megevett ml"))
 
 
 let testsuly_hat = testsuly / 6
